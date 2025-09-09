@@ -3,6 +3,7 @@
 A modern, professional web application for university students to rate and review professors. Built with React, Vite, Tailwind CSS, and Firebase.
 
 ## Features
+
 ### 🔐 Authentication
 
 - Email/password registration and login
